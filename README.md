@@ -11,6 +11,9 @@
 ##### marine = www.marinetraffic.com #####
 ##### plane = www.flightradar24.com #####
 ##### dbresearch or db = www.github.com/SaturnXIII/DBresearch/ #####
+###### For version 1.5 which includes Pyphisher and Storm-breaker you have to install them via the links below and modify the access path in st.sh for strom-breaker and pyphisher.sh for pyphisher. ######
+###### https://github.com/whoami8080/Strome-breaker ######
+###### https://github.com/KasRoudra/PyPhisher ######
 ###### This script is in beta version #####
 ###### any suggestion to saturnXIII@proton.me #####
 ![image](https://user-images.githubusercontent.com/103066353/167156636-3eb61b59-4d15-4845-b534-db2e4321f745.png)
