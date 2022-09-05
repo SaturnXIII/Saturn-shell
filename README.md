@@ -6,6 +6,7 @@
 ![image](https://user-images.githubusercontent.com/110695125/188426115-8540dce4-a1e5-41c2-a6cd-3dc4b5e68d0c.png)
 > ## Information🔍 ##
 ## command: ##
+##### clear #####
 ##### youtube (-s) #####
 ##### google (-s) #####
 ##### marine = www.marinetraffic.com #####
