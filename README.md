@@ -10,7 +10,11 @@
 ##### google (-s) #####
 ##### marine = www.marinetraffic.com #####
 ##### plane = www.flightradar24.com #####
-##### dbresearch or db = www.github.com/SaturnXIII/DBresearch/ #####
+##### db = www.github.com/SaturnXIII/DBresearch/ #####
+##### st = https://github.com/whoami8080/Strome-breaker #####
+##### pyphisher or phishing = https://github.com/KasRoudra/PyPhisher #####
+##### msf = metasploit.com #####
+##### msf -h = metasploit shortened text to connect in reverse_tcp windows ####
 ###### For version 1.5 which includes Pyphisher and Storm-breaker you have to install them via the links below and modify the access path in st.sh for strom-breaker and pyphisher.sh for pyphisher. ######
 ###### https://github.com/whoami8080/Strome-breaker ######
 ###### https://github.com/KasRoudra/PyPhisher ######
