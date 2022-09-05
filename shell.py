@@ -76,11 +76,51 @@ while True:
      print(Fore.BLUE + "┌──(Saturn🌌shell)")
 
     #dbrescearch
-    if shell == "dbresearch" or "db":
+    if shell == "db":
       print(Fore.GREEN + "DBresearch script start >>>")
       print(Fore.RED + "  ")
       os.system('sh dbstart.sh')
       print(Fore.BLUE + "┌──(Saturn🌌shell)")
+
+    #st
+    if shell == "st":
+      print(Fore.GREEN + "Storm-Breaker script start >>>")
+      print(Fore.RED + "  ")
+      os.system('sh st.sh')
+      print(Fore.BLUE + "┌──(Saturn🌌shell)")
+
+    #pysher
+    if shell == "pyphisher":
+      print(Fore.GREEN + "pyphisher script start >>>")
+      print(Fore.RED + "  ")
+      os.system('sh pyphisher.sh')
+      print(Fore.BLUE + "┌──(Saturn🌌shell)")
+
+    #pyshing
+    if shell == "phishing":
+      print(Fore.GREEN + "pyphisher script start >>>")
+      print(Fore.RED + "  ")
+      os.system('sh pyphisher.sh')
+      print(Fore.BLUE + "┌──(Saturn🌌shell)")
+    
+    #clear
+    if shell == "clear":
+      os.system('clear')
+      print(Fore.BLUE + "┌──(Saturn🌌shell)")
+
+    #msf
+    if shell == "msf":
+      print(Fore.GREEN + "metasploit start >>>")
+      print(Fore.RED + "  ")
+      os.system('sh msfconectwin.sh')
+      print(Fore.BLUE + "┌──(Saturn🌌shell)")
+
+    if shell == "msf -h":
+      print(Fore.GREEN + "metasploit help start >>>")
+      print(Fore.RED + "  ")
+      os.system('nano /home/kali/system/shell/comandwin.txt')
+      print(Fore.BLUE + "┌──(Saturn🌌shell)")
+
 
     
     
